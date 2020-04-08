@@ -31,7 +31,7 @@ dependencies:
   # Service Locator (DI)
   get_it: ^4.0.0
   http: ^0.12.0+4 
-  searchable_dropdown: ^1.1.3
+  #searchable_dropdown: ^1.1.3
 
 dev_dependencies:
   flutter_test:
